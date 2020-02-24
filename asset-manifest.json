@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/game1/static/css/main.04bdd277.chunk.css",
-    "main.js": "/game1/static/js/main.d51584f3.chunk.js",
-    "main.js.map": "/game1/static/js/main.d51584f3.chunk.js.map",
+    "main.css": "/game1/static/css/main.7e2f7a94.chunk.css",
+    "main.js": "/game1/static/js/main.7da5b47a.chunk.js",
+    "main.js.map": "/game1/static/js/main.7da5b47a.chunk.js.map",
     "runtime~main.js": "/game1/static/js/runtime~main.ada31c34.js",
     "runtime~main.js.map": "/game1/static/js/runtime~main.ada31c34.js.map",
-    "static/js/2.81e30f5a.chunk.js": "/game1/static/js/2.81e30f5a.chunk.js",
-    "static/js/2.81e30f5a.chunk.js.map": "/game1/static/js/2.81e30f5a.chunk.js.map",
+    "static/js/2.bebc9070.chunk.js": "/game1/static/js/2.bebc9070.chunk.js",
+    "static/js/2.bebc9070.chunk.js.map": "/game1/static/js/2.bebc9070.chunk.js.map",
     "index.html": "/game1/index.html",
-    "precache-manifest.835c91a8cdfec0b704dc7c286e1d5d0a.js": "/game1/precache-manifest.835c91a8cdfec0b704dc7c286e1d5d0a.js",
+    "precache-manifest.af197c6e90a16522555c8104d8700e37.js": "/game1/precache-manifest.af197c6e90a16522555c8104d8700e37.js",
     "service-worker.js": "/game1/service-worker.js",
-    "static/css/main.04bdd277.chunk.css.map": "/game1/static/css/main.04bdd277.chunk.css.map",
+    "static/css/main.7e2f7a94.chunk.css.map": "/game1/static/css/main.7e2f7a94.chunk.css.map",
     "static/media/apple.png": "/game1/static/media/apple.ff4c70f3.png"
   }
 }
